@@ -1,23 +1,15 @@
 {
-  "name": "electron-quick-start",
+  "name": "second-example-electron-chernivtsijs",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimal Electron application with server for @ChernivtsiJS.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
-  ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "repository": "https://github.com/jestersunborn/second-example-electron-chernivtsijs",
+  "author": "Jester Sunborn",
   "devDependencies": {
-    "electron": "^1.4.1"
+    "electron": "^1.4.8"
   },
   "dependencies": {
     "electron-pug": "^1.5.1",
