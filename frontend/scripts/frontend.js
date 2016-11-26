@@ -12,7 +12,7 @@ const render = json => {
 }
 
 const fetchAPI = url => {
-  fetch(`http://localhost:8080/${url}`)
+  fetch(`http://localhost:1488/${url}`)
     .then(res => res.json())
     .then(json => render(json))
 }
